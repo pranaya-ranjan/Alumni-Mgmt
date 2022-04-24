@@ -1,1 +1,1 @@
-# Alumni-Mgmt
+# Alumni-Management-System-Spring-Boot-MVC-JPA-Hibernate-Rest-AWS-Thyemeleaf
